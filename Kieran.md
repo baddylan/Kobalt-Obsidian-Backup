@@ -1,0 +1,1 @@
+[[Kieran]] Augustine, a human from one of multiple versions of Earth, is the Captain, Pilot, and Medic. He's part of the [[Castaway King Crew]]. He was a Search and Rescue pilot and medic in the Federation Navy before he got out and ended up finding his way to Chehon and the Drop Zone.

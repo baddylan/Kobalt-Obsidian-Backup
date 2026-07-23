@@ -1,0 +1,1 @@
+A trans-male coyote, 26 years old. He's the XO of the Castaway King, having been the first to join the crew after meeting [[Kieran]] shortly after arriving on Curuoskar and ending up in the Drop Zone. He's got experience as a Freelance Accountant as well.

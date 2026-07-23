@@ -1,0 +1,1 @@
+Iridic is a Sabertooth Xenopanther, and they're part of the [[Castaway King Crew]] as the Mechanic of the ship. Some kind of contract has been created that makes it so [[Faruza]] can request Iridic's medical records, and require [[Kobalt]] to comply with such a request.

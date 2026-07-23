@@ -1,0 +1,1 @@
+Cherna is a goat/Eldritch Horror of some kind. She's part of the [[Castaway King Crew]], as the ship's counselor.

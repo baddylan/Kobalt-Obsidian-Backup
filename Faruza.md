@@ -1,0 +1,1 @@
+Somehow, Faruza is able to request medical records of [[Iridic]]'s, due to some sort of strange legal contract between the two of them. Unsure of details at this point, just that it's a legally binding contract that has to be followed.
