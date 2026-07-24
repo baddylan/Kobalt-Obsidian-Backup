@@ -1,3 +1,10 @@
+---
+id: St Mary's Students and Teachers and Friends
+aliases:
+  - Teachers and Friends
+tags: []
+---
+
 
 #### Eri
 **Name**: [[Eri]]
@@ -48,6 +55,7 @@
 **Age**: 17
 **Species**: Rabbit
 **Info**: Big rabbit guy, very sexy, has a juicy cunt to play with... <3 Seems to also enjoy spending time with [[Kobalt]].
+
 #### Tensai
 **Name**: [[St Marys/Tensai|Tensai]]
 **Age**: Unknown?
@@ -63,12 +71,29 @@
 **Also known as**: Thrash
 **Age**: Unsure. Teacher Aged
 **Species**: Wolf
+**Info**: A black wolf that's a shop teacher at St. Mary's, originally met [[Kobalt]] at the Drop Zone a couple years ago. The two have ended up good friends as a result.
 
 
 #### Enzo
-**Name**: Enzo Capodanno
-**Species**: Cane Corso
+**Name**: [[St Marys/Enzo|Enzo Capodanno]]
+**Age**: 15
+**Species**: Cane Corso (Italian Mastiff)
+**Info**: Big canine, was trapped in a teleporter buffer for about four years I think?
 
 **Notes**: Owns an Italian restaurant in Nuevo Lobos.
+
+
+#### Aluth
+**Name**: [[St Marys/Aluth|Aluth]]
+**Age**: Unknown
+**Species**: Anubian Jackal
+**Info**: Magic Teacher at St. Mary's, also a good friend of Kobalt's.
+
+
+#### Felicity (Felicks)
+**Name**: [[St Marys/Felicity|Felicity]]
+**Age**: Early 20s
+**Species**: Ocelot
+**Info**: [[St Marys/Steve|Steve]]'s Princess. Teaching Assistant (TA) at St. Mary's.
 
 
