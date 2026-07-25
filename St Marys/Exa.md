@@ -1,1 +1,8 @@
+---
+id: Exa
+aliases:
+  - Examina
+tags: []
+---
+# Exa
 A young teenaged, intersex cyber-dragoness who recently expressed interest in getting to know [[Kobalt]] better.
