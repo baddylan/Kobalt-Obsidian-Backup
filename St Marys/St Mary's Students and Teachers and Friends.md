@@ -96,4 +96,8 @@ tags: []
 **Species**: Ocelot
 **Info**: [[St Marys/Steve|Steve]]'s Princess. Teaching Assistant (TA) at St. Mary's.
 
-
+#### Snarl
+**Name**: [[St Marys/Snarl|Snarl]]
+**Age**: Unsure.
+**Species**: Hyena
+**Info**: Bratty, Delinquent teenage hyena.
